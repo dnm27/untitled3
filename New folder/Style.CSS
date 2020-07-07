@@ -1,0 +1,176 @@
+@media only screen and (min-width: 750px) 
+{
+	  
+#Text p
+{
+	 
+	margin-left: 5px;
+	
+}
+#Text img
+{
+	display: block;
+	margin-left: 50px;
+	margin-top: -40px;
+}
+
+.WT
+{
+	display: block;
+	float: right;
+	 
+}
+
+#P1
+{
+	font-size: 20px;
+	color: red;
+}
+#P2
+{
+	margin-left: -151px;
+	margin-top: 20px;
+	font-size: 20px;
+	color: purple;
+}
+#P3
+{
+	margin-left: -50px;
+	margin-top: 20px;
+	font-size: 20px;
+	color: green;
+}
+
+.WE1
+{
+	 
+	 width: 127px;
+	height: 127px;
+	 margin-top: -30px;
+}
+
+.WE2
+{
+	 width: 127px;
+	height: 127px;
+	  margin-left: -180px;
+	margin-top: 410px;
+}
+#WALT2
+{
+	 
+	  
+	margin-top: 250px;
+}
+.WE3
+{
+	width: 127px;
+	height: 127px;
+	 margin-left: -51px;
+	margin-top: 410px;
+}
+
+.column 
+{
+	float: right;
+	width: 33.33%;
+	padding: 5px;
+}
+
+.row::after
+{
+	content: "";
+	clear: both;
+	display: table;
+	 
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.FirstText
+{
+	font-size: 20px;
+	color: red;
+}
+
+label
+{
+	font-size: 20px;
+	color: purple;
+}
+
+footer
+{
+	position:absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.Normal
+{
+	font-weight: bold;
+}
+
+#RightText
+{
+	display: inline-block;
+	width: 900px;
+	height: 900px;
+	float: right;
+}
+
+textarea
+{
+	float: right;
+	margin-right: 5px;
+}
+
+#LeftText
+{
+	float: left;
+	/*font-weight: bold;*/
+	display: inline-block;
+	width: 700px;
+	height: 900px;
+}
+.LeftT
+{
+	display: inline-block;
+	width: 700px;
+	height: 900px;
+}
+.parent
+{
+	position: relative;
+	 
+}
+ 
+ 
+
+.row
+{
+position: relative;
+	float: right;
+} 
+
+
+ 
+}
+@media only screen and (max-width: 768px) 
+
+{
+	
+	
+	 
+    .container {
+         
+         
+         
+        
+    }
+
+ 
+}
+
